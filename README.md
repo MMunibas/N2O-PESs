@@ -1,5 +1,5 @@
 # N2O-PESs
-Potential energy surfaces for the triplet states of N2O
+Global potential energy surfaces for the triplet states of N2O and spectroscopic PES for the equilibrium region of NNO singlet groud state.
 
 **Requirements**
 
